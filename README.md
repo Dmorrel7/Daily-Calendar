@@ -41,3 +41,4 @@ This is a daily-calendar that starts at 9:00a.m. and goes until 5:00p.m.. Users 
     <li>The website StackOverflow</li>
     <li>JQuery website</li>
     <li>Bootstrap website</li>
+<ul>
