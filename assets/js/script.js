@@ -62,7 +62,6 @@ var loadTasks = function()
     tasks.forEach(function(task)
     {
         newTask(task.time, task.text);
-        console.log(task.time);
     })
 };
 
